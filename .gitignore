@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data files (if they shouldn’t be pushed)
+*.csv
+*.xlsx
+*.json
+*.sqlite
+*.pbix
+*.pptx
+.*.docx
+*.doc
+
+# Large binary files
+*.pkl
+*.h5
+*.zip
