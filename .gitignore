@@ -180,7 +180,7 @@ cython_debug/
 *.sqlite
 *.pbix
 *.pptx
-.*.docx
+*.docx
 *.doc
 
 # Large binary files
